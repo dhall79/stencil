@@ -1,0 +1,15 @@
+{
+    "name": "dhall79/stencil",
+    "description": "Forked from scotch-il/stencil",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Donald Hall",
+            "email": "2002ws6ta@gmail.com"
+        }
+    ],
+    "require": {
+        
+    }
+}
