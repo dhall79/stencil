@@ -1,7 +1,7 @@
 {
     "name": "dhall79/stencil",
     "description": "Forked from scotch-il/stencil",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "license": "proprietary",
     "authors": [
         {
